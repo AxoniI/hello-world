@@ -1,2 +1,3 @@
 # hello-world
-first rep
+Hi...
+I'm will be used this reposit for my new game)
